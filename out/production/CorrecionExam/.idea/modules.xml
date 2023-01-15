@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CorrecionExam.iml" filepath="$PROJECT_DIR$/.idea/CorrecionExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ecomida/Ecomida.iml" filepath="$PROJECT_DIR$/Ecomida/Ecomida.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Emusica/Emusica.iml" filepath="$PROJECT_DIR$/Emusica/Emusica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Evideojuegos/Evideojuegos.iml" filepath="$PROJECT_DIR$/Evideojuegos/Evideojuegos.iml" />
+    </modules>
+  </component>
+</project>
