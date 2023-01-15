@@ -6,7 +6,9 @@ String nombre;
         this.clasificacion = clasificacion;
         this.nombre = nombre;
     }
-
+    public void imprimirV() {
+        System.out.println("Clasificacion : "+getClasificacion()+" Nombre::  "+getNombre());
+    }
     public String getClasificacion() {
         return clasificacion;
     }
