@@ -8,6 +8,7 @@ public class Vequipo extends Vdetalles{
         setNumeroC(numeroC);
     }
     public void imprimirV() {
+        super.imprimirV();
         System.out.println("Equipos donde se puede jugar : "+getEquipoJ()+" Numero de capitulos:  "+getNumeroC());
     }
     public String getEquipoJ() {
